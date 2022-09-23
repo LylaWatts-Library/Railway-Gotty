@@ -8,8 +8,7 @@ A remote terminal for Render.com using Gotty
 
 ## 💁‍♀️ How to use
 
-- just click the button below and deploy it in Railway : 
-- [`Click Me!`](https://render.com/new/template?template=https://github.com/Win7Fan/Render-GoTTY)
+- deploy it with render.com
 
 # Note
 
