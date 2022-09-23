@@ -1,6 +1,6 @@
-# Railway-Gotty
+# Render-GoTTY
 
-A remote terminal for Railway.app using Gotty
+A remote terminal for Render.com using Gotty
 ## ✨ Features
 
 - remote terminal
@@ -9,9 +9,9 @@ A remote terminal for Railway.app using Gotty
 ## 💁‍♀️ How to use
 
 - just click the button below and deploy it in Railway : 
-- [`Click Me!`](https://railway.app/new/template?template=https://github.com/afnan007a/Railway-Gotty)
+- [`Click Me!`](https://render.com/new/template?template=https://github.com/Win7Fan/Render-GoTTY)
 
 # Note
 
-- use this on your own risk because its against railway tos ( if im correct because i dont really know lol )
+- use this on your own risk because its against render tos ( if im correct because i dont really know lol )
 
