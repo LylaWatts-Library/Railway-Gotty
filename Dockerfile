@@ -6,4 +6,4 @@ RUN chmod +x gotty && mv gotty /usr/bin/
 RUN curl -sSLo enableterm.sh https://raw.githubusercontent.com/imm0nv1nhtv/Render-GoTTY/main/enableterm.sh
 RUN chmod +x ./enableterm.sh
 
-CMD gotty -p 80 -w fish ./enableterm.sh
+CMD gotty -p 80 -w bash ./enableterm.sh
