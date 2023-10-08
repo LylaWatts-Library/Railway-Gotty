@@ -1,2 +1,2 @@
 export TERM=xterm
-fish
+bash
